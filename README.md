@@ -1,5 +1,7 @@
-# HMS_Project
-This group Project Created by our team 
-EduBridge Project
+# HMS_Project 
+EduBridge
+This is group Project Created by our team using Eclipse IDE and Maven Project
+FrontEnd: 'HTML,CSS,BOOTSTRAP,Jscript
+BackEnd: 'Spring Framework'
+DataBase:'MySql'
 
-It is Spring Mvc Project Created using Maven Project adding Dependency of Spring Framework
