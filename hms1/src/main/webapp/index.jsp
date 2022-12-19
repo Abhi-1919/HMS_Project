@@ -13,7 +13,8 @@
 		  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 		  
 </head>
-<body style="background-color:#244b52; text-decoration: double; text-align: center;">
+ <body style="background-color:#244b52; text-decoration: double; text-align: center;">
+
 	<br/><br/><br/><br/><br/>
 	<span class="display-1"><span style="color:grey;">SARASWATI</span><span style="color:red;"> APPLE</span></span></span><h1> HOSPITAL</h1>
 	<br/><br/><br/>

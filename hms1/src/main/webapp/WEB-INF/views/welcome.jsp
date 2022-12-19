@@ -114,13 +114,13 @@ body {
 				<a href="searchPatientView.html">
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search Patient
 				</a>
-				<a class="text-primary">
+				<a class="viewDopdPatient2.html">
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patient General Info
 				</a>
-				<a class="text-primary">
+				<a class="patientHistoryList.html">
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;History
 				</a>
-				<a class="text-primary">
+				<a class="patientObservePrescribe.html">
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Observations <br/>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescription
 				</a>
